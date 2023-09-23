@@ -1,10 +1,10 @@
-package br.com.maxley.factory;
+package br.com.maxley.pattern;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FactoryApplicationTests {
+class PatternApplicationTests {
 
 	@Test
 	void contextLoads() {
